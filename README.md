@@ -10,5 +10,5 @@ This is the code with respect to the model DCMA-CNNs, which is proposed in the p
 * The code is based on the [DeepLearnToolBox](https://github.com/rasmusbergpalm/DeepLearnToolbox)
 
 ## Data
-* This code is a brief demo of DCMA-CNNs. I only include six samples (all sampled from the JAFFE dataset) to show how DCMA-CNNs works (training and evaluation).
 * Experiments (details refer to the paper) are conducted on two facial expression datasets: [CK+](http://www.pitt.edu/~emotion/ck-spread.htm) and [JAFFE](http://www.kasrl.org/jaffe.html). You can apply for or directly download these two dataset.
+* This code is just a demo of DCMA-CNNs. I only include six samples (all sampled from the JAFFE dataset) to show how DCMA-CNNs works (training and evaluation).
